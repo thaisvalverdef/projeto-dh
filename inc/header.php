@@ -24,8 +24,25 @@
                     <li class="nav-item">
                         <a class="nav-link" href="#">Como funciona</a>
                     </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#">Modalidades</a>
+                    <div class="dropdown">
+                    <button class="dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        Modalidades
+                    </button>
+                    <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                        <a class="dropdown-item" href="#">Ballet</a>
+                        <a class="dropdown-item" href="#">Contemporâneo</a>
+                        <a class="dropdown-item" href="#">Dança de Salão</a>
+                        <a class="dropdown-item" href="#">Dança do Ventre</a>
+                        <a class="dropdown-item" href="#">Funk</a>
+                        <a class="dropdown-item" href="#">Hip Hop/Breaking</a>
+                        <a class="dropdown-item" href="#">Jazz</a>
+                        <a class="dropdown-item" href="#">Samba</a>
+                        <a class="dropdown-item" href="#">Sapateado</a>
+                        <a class="dropdown-item" href="#">Vídeo Dance</a>
+                        <a class="dropdown-item" href="#">Outros</a>
+
+                    </div>
+                    </div>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="#" data-toggle="modal" data-target="#modalLogin">Quero dar aulas</a>
@@ -33,6 +50,7 @@
                     <li class="nav-item">
                         <a class="nav-link disabled" href="#">Blog</a>
                     </li>
+                 
                 </ul>
             </div>
         </nav>
