@@ -1,6 +1,7 @@
 <?php require_once("./inc/head.php"); ?>
-<?php require_once("./inc/header.php"); ?>    
+<?php require_once("./inc/header.php"); ?>   
 
+<div class="container-fluid">
 <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
   <ol class="carousel-indicators">
     <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
@@ -32,57 +33,58 @@
   </a>
 </div>
 
-<h2 class="col-12 text-center text info mt-3 mb-3">Aulas da semana</h2>
+<h2 class="col-12 text-center text info mt-5 mb-5">Aulas da semana</h2>
 
-<div class="card-deck">
-  <div class="card">
+  <div class="card-deck">
+  <div class="card ml-5">
     <img class="card-img-top" src="inc/img/aula1.png" alt="Imagem de capa do card">
     <div class="card-body">
       <h5 class="card-title">Título do card</h5>
       <p class="card-text">Este é um card mais longo com suporte a texto embaixo, que funciona como uma introdução a um conteúdo adicional. Este conteúdo é um pouco maior.</p>
-      <p class="card-text"><small class="text-muted">Atualizados 3 minutos atrás</small></p>
+      <a href="#" class="btn btn btn-dark">Saiba mais</a>
+      
     </div>
   </div>
   <div class="card">
-    <img class="card-img-top" src="inc/img/aula2.png" alt="Imagem de capa do card">
+    <img class="card-img-top" src="inc/img/aula5.png" alt="Imagem de capa do card">
     <div class="card-body">
       <h5 class="card-title">Título do card</h5>
       <p class="card-text">Este é um card com suporte a texto embaixo, que funciona como uma introdução a um conteúdo adicional.</p>
-      <p class="card-text"><small class="text-muted">Atualizados 3 minutos atrás</small></p>
+      <a href="#" class="btn btn btn-dark">Saiba mais</a>
     </div>
   </div>
-  <div class="card">
-    <img class="card-img-top" src="inc/img/aula3.png" alt="Imagem de capa do card">
+  <div class="card mr-5">
+    <img class="card-img-top" src="inc/img/aula7.png" alt="Imagem de capa do card">
     <div class="card-body">
       <h5 class="card-title">Título do card</h5>
       <p class="card-text">Este é um card maior com suporte a texto embaixo, que funciona como uma introdução a um conteúdo adicional. Este card tem o conteúdo ainda maior que o primeiro, para mostrar a altura igual, em ação.</p>
-      <p class="card-text"><small class="text-muted">Atualizados 3 minutos atrás</small></p>
+      <a href="#" class="btn btn btn-dark">Saiba mais</a>
     </div>
   </div>
 </div>
 <div class="card-deck">
-  <div class="card">
+  <div class="card mt-5 mb-5 ml-5">
     <img class="card-img-top" src="inc/img/aula4.png" alt="Imagem de capa do card">
     <div class="card-body">
       <h5 class="card-title">Título do card</h5>
       <p class="card-text">Este é um card mais longo com suporte a texto embaixo, que funciona como uma introdução a um conteúdo adicional. Este conteúdo é um pouco maior.</p>
-      <p class="card-text"><small class="text-muted">Atualizados 3 minutos atrás</small></p>
+      <a href="#" class="btn btn btn-dark btn-rigth">Saiba mais</a>
     </div>
   </div>
-  <div class="card">
-    <img class="card-img-top" src="inc/img/aula2.png" alt="Imagem de capa do card">
+  <div class="card mt-5 mb-5">
+    <img class="card-img-top" src="inc/img/aula8.png" alt="Imagem de capa do card">
     <div class="card-body">
       <h5 class="card-title">Título do card</h5>
       <p class="card-text">Este é um card com suporte a texto embaixo, que funciona como uma introdução a um conteúdo adicional.</p>
-      <p class="card-text"><small class="text-muted">Atualizados 3 minutos atrás</small></p>
+      <a href="#" class="btn btn btn-dark">Saiba mais</a>
     </div>
   </div>
-  <div class="card">
-    <img class="card-img-top" src="inc/img/aula3.png" alt="Imagem de capa do card">
+  <div class="card mt-5 mb-5 mr-5">
+    <img class="card-img-top" src="inc/img/aula6.png" alt="Imagem de capa do card">
     <div class="card-body">
       <h5 class="card-title">Título do card</h5>
       <p class="card-text">Este é um card maior com suporte a texto embaixo, que funciona como uma introdução a um conteúdo adicional. Este card tem o conteúdo ainda maior que o primeiro, para mostrar a altura igual, em ação.</p>
-      <p class="card-text"><small class="text-muted">Atualizados 3 minutos atrás</small></p>
+      <a href="#" class="btn btn btn-dark">Saiba mais</a>
     </div>
   </div>
 </div>
