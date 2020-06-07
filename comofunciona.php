@@ -1,26 +1,41 @@
-<?php require_once("./inc/head.php"); ?>
+
 <?php require_once("./inc/header.php"); ?>   
 
-<header class="bg-danger text-white">
-    <div class="container text-center">
-      <h1>O que é o Dança em Casa</h1>
-      <p class="lead">A landing page template freshly redesigned for Bootstrap 4</p>
-    </div>
-  </header>
 
-  <section id="about">
+<div class="container-fluid">
+<div class="col-12">
+<img class="card-img" src="inc/img/banner-danca.png" alt="Imagem do card">
+</div>
+
+
+    <hr>
     <div class="container">
-      <div class="row">
-        <div class="col-lg-8 mx-auto">
-          <h2>About this page</h2>
-          <p class="lead">This is a great place to talk about your webpage. This template is purposefully unstyled so you can use it as a boilerplate or starting point for you own landing page designs! This template features:</p>
-          <ul>
-            <li>Clickable nav links that smooth scroll to page sections</li>
-            <li>Responsive behavior when clicking nav links perfect for a one page website</li>
-            <li>Bootstrap's scrollspy feature which highlights which section of the page you're on in the navbar</li>
-            <li>Minimal custom CSS so you are free to explore your own unique design options</li>
-          </ul>
+
+        <!--Sobre-->
+        <div class="row">
+            <div class="col-md-7">
+                <h2 >O que é o Dança em Casa</h2>
+                <p class="lead">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Maiores neque odio atque cupiditate magni eligendi nisi facere vero magnam itaque. Nisi officiis tempore laborum neque nihil iusto quasi voluptates deserunt.
+                    <br /><br />
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia ea eaque delectus numquam reprehenderit reiciendis beatae at quos, laborum maiores cupiditate doloremque, adipisci iusto ipsa velit illum. Mollitia, nesciunt laboriosam!
+                    <br /><br />
+                    Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eaque magni nam, ipsam perspiciatis quis est ex repellat quam consequuntur vitae deserunt?</p>
+            </div>
+            <div class="col-md-5">
+            <img class="img-fluid rounded-top mx-auto" src="inc/img/foto-sobre.jpeg" alt="Imagem de capa do card">
+            </div>
         </div>
-      </div>
-    </div>
-  </section>
+        <hr>
+        <div class="container-fluid offset-5" >
+        <div class="row">
+                <div class="col-md-7">
+                    <h2> Cadastre sua aula! </h2>
+                    <p class="lead">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Maiores neque odio atque cupiditate magni eligendi nisi facere vero magnam itaque. Nisi officiis tempore laborum neque nihil iusto quasi voluptates deserunt.
+                    <br /><br />
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia ea eaque delectus numquam reprehenderit reiciendis beatae at quos, laborum maiores cupiditate doloremque, adipisci iusto ipsa velit illum. Mollitia, nesciunt laboriosam!
+                    <br /><br />
+                    Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eaque magni nam, ipsam perspiciatis quis est ex repellat quam consequuntur vitae deserunt laudantium praesentium dolor excepturi veritatis quo qui. Maiores, cum?</p>
+                   </div>          
+                    
+
+<?php require_once("./inc/footer.php"); ?>

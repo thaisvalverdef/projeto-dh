@@ -1,19 +1,17 @@
 
 <footer class="page-footer font-small text-white bg-dark pt-4">
 
-  <div class="container">
+  <div class="container-fluid">
 
-      <ul class="text-center py-2">
+      <ul class="text-center">
       <li class="list-inline-item">
-        <h5 class="mb-1">Você dá aula de dança on-line?</h5>
+        <h5>Você dá aula de dança on-line?</h5>
       </li>
       <li class="list-inline-item">
-        <a href="#!" class="btn btn-primary btn-rounded">Cadastre-se</a>
+        <a href="#!" class="btn btn-primary btn-rounded">Cadastre-se!</a>
       </li>
     </ul>
-    <!-- Call to action -->
-
-  </div>
+    </div>
 
 </footer>
 
@@ -22,4 +20,3 @@
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
 </body>
 
-</html>
