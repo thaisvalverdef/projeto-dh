@@ -14,16 +14,16 @@
   </ol>
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img class="d-block w-100" src="inc/img/slide4.png" alt="Primeiro Slide">
+      <img class="d-block w-100" src="assets/img/slide4.png" alt="Primeiro Slide">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="inc/img/slide1.png" alt="Segundo Slide">
+      <img class="d-block w-100" src="assets/img/slide1.png" alt="Segundo Slide">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="inc/img/slide2.png" alt="Terceiro Slide">
+      <img class="d-block w-100" src="assets/img/slide2.png" alt="Terceiro Slide">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="inc/img/slide3.png" alt="Quarto Slide">
+      <img class="d-block w-100" src="assets/img/slide3.png" alt="Quarto Slide">
     </div>
   </div>
   <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
@@ -40,7 +40,7 @@
 
   <div class="card-deck">
   <div class="card ml-5">
-    <img class="card-img-top" src="inc/img/aula1.png" alt="Imagem de capa do card">
+    <img class="card-img-top" src="assets/img/aula1.png" alt="Imagem de capa do card">
     <div class="card-body">
       <h5 class="card-title">Título do card</h5>
       <p class="card-text">Este é um card mais longo com suporte a texto embaixo, que funciona como uma introdução a um conteúdo adicional. Este conteúdo é um pouco maior.</p>
@@ -49,7 +49,7 @@
     </div>
   </div>
   <div class="card">
-    <img class="card-img-top" src="inc/img/aula5.png" alt="Imagem de capa do card">
+    <img class="card-img-top" src="assets/img/aula5.png" alt="Imagem de capa do card">
     <div class="card-body">
       <h5 class="card-title">Título do card</h5>
       <p class="card-text">Este é um card com suporte a texto embaixo, que funciona como uma introdução a um conteúdo adicional.</p>
@@ -57,7 +57,7 @@
     </div>
   </div>
   <div class="card mr-5">
-    <img class="card-img-top" src="inc/img/aula7.png" alt="Imagem de capa do card">
+    <img class="card-img-top" src="assets/img/aula7.png" alt="Imagem de capa do card">
     <div class="card-body">
       <h5 class="card-title">Título do card</h5>
       <p class="card-text">Este é um card maior com suporte a texto embaixo, que funciona como uma introdução a um conteúdo adicional. Este card tem o conteúdo ainda maior que o primeiro, para mostrar a altura igual, em ação.</p>
@@ -67,7 +67,7 @@
 </div>
 <div class="card-deck">
   <div class="card mt-5 mb-5 ml-5">
-    <img class="card-img-top" src="inc/img/aula4.png" alt="Imagem de capa do card">
+    <img class="card-img-top" src="assets/img/aula4.png" alt="Imagem de capa do card">
     <div class="card-body">
       <h5 class="card-title">Título do card</h5>
       <p class="card-text">Este é um card mais longo com suporte a texto embaixo, que funciona como uma introdução a um conteúdo adicional. Este conteúdo é um pouco maior.</p>
@@ -75,7 +75,7 @@
     </div>
   </div>
   <div class="card mt-5 mb-5">
-    <img class="card-img-top" src="inc/img/aula8.png" alt="Imagem de capa do card">
+    <img class="card-img-top" src="assets/img/aula8.png" alt="Imagem de capa do card">
     <div class="card-body">
       <h5 class="card-title">Título do card</h5>
       <p class="card-text">Este é um card com suporte a texto embaixo, que funciona como uma introdução a um conteúdo adicional.</p>
@@ -83,7 +83,7 @@
     </div>
   </div>
   <div class="card mt-5 mb-5 mr-5">
-    <img class="card-img-top" src="inc/img/aula6.png" alt="Imagem de capa do card">
+    <img class="card-img-top" src="assets/img/aula6.png" alt="Imagem de capa do card">
     <div class="card-body">
       <h5 class="card-title">Título do card</h5>
       <p class="card-text">Este é um card maior com suporte a texto embaixo, que funciona como uma introdução a um conteúdo adicional. Este card tem o conteúdo ainda maior que o primeiro, para mostrar a altura igual, em ação.</p>

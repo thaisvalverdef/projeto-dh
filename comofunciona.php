@@ -8,7 +8,7 @@
 
 <div class="container-fluid first-section">
 <div class="col-12">
-<img class="card-img" src="inc/img/banner-danca.png" alt="Imagem do card">
+<img class="card-img" src="assets/img/banner-danca.png" alt="Imagem do card">
 </div>
 
 
@@ -26,7 +26,7 @@
                 Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eaque magni nam, ipsam perspiciatis quis est ex repellat quam consequuntur vitae deserunt?</p>
             </div>
             <div class="col-5">
-            <img class="img-fluid rounded-top mx-auto" src="inc/img/foto-sobre.jpeg" alt="Imagem de capa do card">
+            <img class="img-fluid rounded-top mx-auto" src="assets/img/foto-sobre.jpeg" alt="Imagem de capa do card">
             </div>
         </div>
         <hr>  
@@ -41,7 +41,7 @@
         Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eaque magni nam, ipsam perspiciatis quis est ex repellat quam consequuntur vitae deserunt laudantium praesentium dolor excepturi veritatis quo qui. Maiores, cum?</p>         
         </div>
         
- <div class="col-5"> <img class="imagemcad" class="img-fluid float-left rounded-top mx-auto"  src="inc/img/danca.png" alt="Imagem de capa do card"> 
+ <div class="col-5"> <img class="imagemcad" class="img-fluid float-left rounded-top mx-auto"  src="assets/img/danca.png" alt="Imagem de capa do card"> 
 </div>
         
      
