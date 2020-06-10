@@ -4,10 +4,12 @@
 <link rel="stylesheet" href="./assets/css/style.css">
 </head>
 
+
+
 <div class="jumbotron jumbotron-fluid">
   <div class="container">
-    <h1 class="display-4">Divulgue suas aulas online!</h1>
-    <p class="lead">Cadastre o seu perfil no <strong>Dança Em Casa</strong> e conquista mais alunos para as suas aulas on-line.</p>
+    <h1 class="display-4">Divulgue suas aulas onlines!</h1>
+    <p class="lead">Cadastre o seu perfil no <strong>Dança Em Casa</strong> e conquista mais alunos para as suas aulas online.</p>
   </div>
 </div>
 
@@ -17,9 +19,7 @@
     <label for="foto">Insira a sua imagem de divulgação</label>
     <input type="file" class="form-control-file" id="foto">
   </div>
-</form>
 
-<form>
   <div class="form-group">
     <label for="nome">Nome completo</label>
     <input type="email" class="form-control" id="nome">
@@ -59,11 +59,13 @@
       <option>Avançado</option>
       <option>Todos os níveis</option>
 </div>
-</div>
+<button type="submit" class="btn btn-primary">Enviar</button>
+
 </form>
-<div class="container">
-<input class="btn btn-primary" type="submit" value="Submit">
-</div>
 
+<footer>
 
+<?php require_once("./inc/footer.php");?>  
+
+</footer>
 
