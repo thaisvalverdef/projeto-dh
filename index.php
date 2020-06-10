@@ -1,5 +1,8 @@
-<?php require_once("./inc/head.php"); ?>
 <?php require_once("./inc/header.php"); ?>   
+
+<head>
+<link rel="stylesheet" href="./assets/css/style.css">
+</head>
 
 <div class="container-fluid">
 <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
@@ -41,7 +44,7 @@
     <div class="card-body">
       <h5 class="card-title">Título do card</h5>
       <p class="card-text">Este é um card mais longo com suporte a texto embaixo, que funciona como uma introdução a um conteúdo adicional. Este conteúdo é um pouco maior.</p>
-      <a href="#" class="btn btn btn-dark">Saiba mais</a>
+      <a href="#" class="btn" class="saiba">Saiba mais</a>
       
     </div>
   </div>
