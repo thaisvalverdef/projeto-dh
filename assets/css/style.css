@@ -1,18 +1,20 @@
-.jumbotron{
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.jumbotron {
     background-color: #F64D6B;
     color: white;
-    
 }
 
-.imagemcad{
-
+.imagemcad {
     float: top left;
     margin: 0px 10px 10px 0;
-    
-   
 }
 
-.quero{
+.quero {
     border-radius: 20px;
     border-radius: 20px;
     border-radius: 20px;
@@ -27,9 +29,31 @@
     display: inline-block;
     cursor: pointer;
     text-align: center;
-    }
+}
 
-    .saiba{
-        background-color: #F64D6B;
-        color: black;
-    }
+.btn,
+.nav-item:last-child {
+    background-color: #fc244c;
+    color: black;
+    display: inline-block;
+    font-weight: 400;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    border: 1px solid black;
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    line-height: 1.5;
+    border-radius: .25rem;
+    transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+}
+
+.btn:hover,
+.nav-item:last-child:hover {
+    background-color: black;
+    color: #fff;
+}
