@@ -33,7 +33,7 @@
 
 <div class="card-deck">
   <div class="card">
-    <img class="card-img-top" src="inc/img/ballet1.jpg" alt="Imagem de capa do card">
+    <img class="card-img-top" src="./assets/img/ballet1.jpg" alt="Imagem de capa do card">
     <div class="card-body">
       <h5 class="card-title">Ballet para pessoas com deficiencia</h5>
       <p class="card-text">Professora Fulana de tal, atua há mais de xx anos com um ballet que tras a 
@@ -42,7 +42,7 @@
     </div>
   </div>
   <div class="card">
-    <img class="card-img-top" src="inc/img/ballet2.jpg" alt="Imagem de capa do card">
+    <img class="card-img-top" src="./assets/img/ballet2.jpg" alt="Imagem de capa do card">
     <div class="card-body">
       <h5 class="card-title">Ballet para todos os corpos</h5>
       <p class="card-text">Mulheres gordas podem fazer aula de ballet sim! É uma excelente 
@@ -51,7 +51,7 @@
     </div>
   </div>
   <div class="card">
-    <img class="card-img-top" src="inc/img/ballet3.jpg" alt="Imagem de capa do card">
+    <img class="card-img-top" src="./assets/img/ballet3.jpg" alt="Imagem de capa do card">
     <div class="card-body">
       <h5 class="card-title">Quais as modalidades você pode fazer aqui?</h5>
       <p class="card-text">Ballet Classico, Ballet Contemporâneo.</p>
