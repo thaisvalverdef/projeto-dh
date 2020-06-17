@@ -1,4 +1,5 @@
 
+</section>
 <footer class="page-footer font-small text-white bg-dark pt-4">
 
   <div class="container-fluid">
