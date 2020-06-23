@@ -14,27 +14,10 @@
     margin: 0px 10px 10px 0;
 }
 
-.quero {
-    border-radius: 20px;
-    border-radius: 20px;
-    border-radius: 20px;
-    color: #000000;
-    font-family: Open Sans;
-    font-size: 40px;
-    font-weight: 100;
-    padding: 40px;
-    background-color: #F64D6B;
-    border: solid #F64D6B 1px;
-    text-decoration: none;
-    display: inline-block;
-    cursor: pointer;
-    text-align: center;
-}
-
 .btn,
 .nav-item:last-child {
-    background-color: #fc244c;
-    color: black;
+    background-color: #f64d6b;
+    color: white;
     display: inline-block;
     font-weight: 400;
     text-align: center;
@@ -44,7 +27,7 @@
     -moz-user-select: none;
     -ms-user-select: none;
     user-select: none;
-    border: 1px solid black;
+    border: 1px solid;
     padding: .375rem .75rem;
     font-size: 1rem;
     line-height: 1.5;
