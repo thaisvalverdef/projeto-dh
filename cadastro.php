@@ -60,6 +60,7 @@
       <option>Todos os níveis</option>
 </div>
 </div>
+</div>
 </form>
 <div class="container">
 <input class="btn btn-primary" type="submit" value="Submit">
