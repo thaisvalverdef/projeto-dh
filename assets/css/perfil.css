@@ -1,0 +1,86 @@
+* {
+    margin: 0;
+    padding: 0;
+    scroll-behavior: smooth;
+    box-sizing: border-box;
+}
+
+
+
+body {
+    justify-content: space-between;
+}
+
+.backg {
+    background-repeat: no-repeat;
+}
+
+
+.título {
+    background-color:  rgb(124, 121, 122);
+    color: white;
+    text-align: center;
+    font-size: 22px;
+    font-style: italic;
+    }
+
+
+aside {    
+        border-right: 1px dotted rgb(196, 196, 196);
+        width: 40%;
+        margin-left: 20px;
+        margin-top: 20px;
+        display: flex;
+        flex-direction: column;
+    }
+
+
+
+main {
+        margin: 20px 20px;
+        width: 60%;
+        display: flex;
+        flex-direction: column;
+    }
+
+#divPai {
+    display: flex;
+    margin-top: 20px;
+}
+.carousel {
+    width: 90%;
+    margin-left: 25px;
+}
+
+.carousel-indicators {
+    position: relative;
+}
+
+.carousel-indicators li {
+    width: 60px;
+    height: 45px;
+}
+
+h3 {
+    font-size: 35px;
+    text-align: center;
+    font-family: 'Marck Script', cursive;
+}
+
+form {
+    display: block;
+    justify-content: center;
+    margin-left: 150px;
+}
+
+form h5 {
+    margin-left: 160px;
+}
+
+footer {
+    display: flex;
+}
+
+.navbar {
+    background-color: white;
+} 
