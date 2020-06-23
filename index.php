@@ -86,13 +86,9 @@
     </div>
   </div>  
 </div>
-<<<<<<< HEAD
 </div>
 
 
 <?php require_once("./inc/footer.php"); ?>
 
     
-=======
-  <?php require_once("./inc/footer.php"); ?>
->>>>>>> 16a4add5cb0cb5d66a0062ab14e0d158d148bacc
