@@ -26,7 +26,7 @@
                         <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="localhost/projeto-dh/comofunciona.php">Como funciona</a>
+                        <a class="nav-link" href="#">Como funciona</a>
                     </li>
                     
                     <li class="navbar-nav ml-auto">
