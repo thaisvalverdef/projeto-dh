@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-
-</section>
-=======
->>>>>>> 16a4add5cb0cb5d66a0062ab14e0d158d148bacc
 <footer class="page-footer font-small text-white bg-dark pt-4">
   <div class="container-fluid">
     <ul class="text-center mb-0 py-2">
