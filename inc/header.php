@@ -1,6 +1,6 @@
 <body>
     <header>
-        <nav class="navbar text-primary navbar-expand-lg navbar-light bg-light">
+        <nav class="navbar text-primary navbar-expand-lg navbar-light">
             <a class="navbar-brand" href="index.php">
                 <img src="assets/img/logo_danca.png" width="100" height="100">
             </a>
