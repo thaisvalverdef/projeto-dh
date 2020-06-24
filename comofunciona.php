@@ -1,9 +1,7 @@
 
 <?php require_once("./inc/header.php"); ?>   
+<?php require_once("./inc/head.php"); ?>
 
-<head>
-<link rel="stylesheet" href="./assets/css/style.css">
-</head>
 
 
 <div class="container-fluid">
