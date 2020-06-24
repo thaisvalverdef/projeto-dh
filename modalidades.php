@@ -35,7 +35,7 @@
   <div class="card">
     <img class="card-img-top" src="./assets/img/ballet1.jpg" alt="Imagem de capa do card">
     <div class="card-body">
-      <h5 class="card-title">Ballet para pessoas com deficiencia</h5>
+      <h5 class="card-title">Professora Alcina - Ballet para pessoas com deficiencia</h5>
       <p class="card-text">Professora Fulana de tal, atua há mais de xx anos com um ballet que tras a 
       inclusão, igualdade e auto estima. </p>
       <p class="card-text"><small class="text-muted">Faça um aula experimental</small></p>
@@ -44,9 +44,9 @@
   <div class="card">
     <img class="card-img-top" src="./assets/img/ballet2.jpg" alt="Imagem de capa do card">
     <div class="card-body">
-      <h5 class="card-title">Ballet para todos os corpos</h5>
-      <p class="card-text">Mulheres gordas podem fazer aula de ballet sim! É uma excelente 
-      atividade física e vai te ajudar em tonificar seus musculos e manter sua saude e bem estar.</p>
+      <h5 class="card-title"> Professora Vannesa - Ballet para todos os corpos</h5>
+      <p class="card-text"> Com um trabalho de inclusão e diversidade, proporciona uma excelente atividades
+      para mulheres gordas e que podem fazer aula de ballet sim! É uma atividade física e vai te ajudar em tonificar seus musculos e manter sua saude e bem estar.</p>
       <p class="card-text"><small class="text-muted">Faça uma aula experimental</small></p>
     </div>
   </div>
