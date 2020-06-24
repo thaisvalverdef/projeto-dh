@@ -1,11 +1,11 @@
 <footer class="page-footer font-small text-white bg-dark pt-4">
   <div class="container-fluid">
-    <ul class="text-center mb-0 py-5">
+    <ul class="text-center mb-0 py-2">
       <li class="list-inline-item">
         <h5>Você dá aula de dança on-line?</h5>
       </li>
       <li class="list-inline-item">
-        <a href="#!" class="btn">Cadastre-se!</a>
+        <a href="#!" class="btn" style="margin-bottom:15px;">Cadastre-se!</a>
       </li>
     </ul>
   </div>

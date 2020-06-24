@@ -81,6 +81,30 @@ footer {
     display: flex;
 }
 
+.btn,
+.nav-item:last-child {
+    background-color: #f64d6b;
+    color: white;
+    display: inline-block;
+    font-weight: 400;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    border: 1px solid;   
+    font-size: 1rem;
+    line-height: 1.5;
+    border-radius: .25rem;
+}
+
+.btn:hover,
+.nav-item:last-child:hover {
+    color: #fff;
+}
+
 .navbar {
     background-color: white;
 } 

@@ -1,5 +1,5 @@
 <?php
-
+// 1 - obtendo o conteudo do arquivo usuarios.json
 $usuariosJson = file_get_contents("./data/usuarios.json");
 
 // 2 - transformando o conteudo do arquivo usuarios.json em um array associativo
@@ -8,20 +8,19 @@ $arrayUsuarios = json_decode($usuariosJson, true);
 <?php $tituloPagina = "Lista de Usuários"; ?>
 <?php require_once("./inc/head.php"); ?>
 <?php require_once("./inc/header.php"); ?>
-<main class="container">
+<main class="container" id="containerlista">
     <article class="row">
-        <section class="col-12 mx-auto bg-light my-5 py-5 rounded border" id="usuariosTb">
+        <section class="col-12 mx-auto my-5 py-5" id="usuariosTb">
             <h3 class="col-12 text-center my-3"><?= $tituloPagina ?></h3>
             <table class="table my-5">
-                <thead class="thead-dark">
+                <thead class="thead-light">
                     <tr>
                         <th scope="col">Nome</th>
                         <th scope="col">Sobrenome</th>
                         <th scope="col">E-mail</th>
                         <th scope="col">Modalidade</th>
-                        <th scope="col">Níveis</th>
                         <th scope="col">Metodologia</th>
-
+                        <th scope="col">Níveis</th>
                         <th scope="col" colspan="2">Ações</th>
                     </tr>
                 </thead>
@@ -33,10 +32,10 @@ $arrayUsuarios = json_decode($usuariosJson, true);
                             <td><?= $usuario["sobrenome"] ?></td>
                             <td><?= $usuario["email"] ?></td>
                             <td><?= $usuario["modalidade"] ?></td>
-                            <td><?= $usuario["nive"] ?></td>
                             <td><?= $usuario["metodologia"] ?></td>
+                            <td><?= $usuario["niveis"] ?></td>
                             <td>
-                                <a href="edita-usuario.php?id=<?= $usuario["id"] ?>">
+                                <a href="edicaoperfil.php?id=<?= $usuario["id"] ?>">
                                     <i class="fas fa-pen"></i>
                                 </a>
                             </td>
@@ -59,7 +58,7 @@ $arrayUsuarios = json_decode($usuariosJson, true);
                                             </div>
                                             <div class="modal-footer">
                                                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Cancelar</button>
-                                                <a href="usuarios.php?id=<?= $usuario["id"] ?>">
+                                                <a href="listausuario.php?id=<?= $usuario["id"] ?>">
                                                     <button type="button" class="btn btn-danger">Excluir</button>
                                                 </a>
                                             </div>
