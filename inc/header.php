@@ -38,12 +38,65 @@
                     </div>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" class="quero">Quero dar aulas</a>
+                        <a class="nav-link" href="#" data-toggle="modal" data-target="#btnLogin">Quero dar aulas</a>
                     </li>
                                   
                 </ul>
             
         </nav>
+
+        <!--Modal: Login / Register Form-->
+<div class="modal fade" id="btnLogin" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+  <div class="modal-dialog cascading-modal" role="document">
+    <!--Content-->
+    <div class="modal-content">
+
+      <!--Modal cascading tabs-->
+      <div class="modal-c-tabs">
+
+        <!-- Nav tabs -->
+        <ul class="nav nav-tabs md-tabs tabs-2 light-blue darken-3" role="tablist">
+          <li class="nav-item">
+            <a class="nav-link active" data-toggle="tab" href="#panel7" role="tab"><i class="fas fa-user mr-1"></i>
+              Faça o seu Login</a>
+          </li>
+        
+        </ul>
+
+        <!-- Tab panels -->
+        <div class="tab-content">
+          <!--Panel 7-->
+          <div class="tab-pane fade in show active" id="panel7" role="tabpanel">
+
+            <!--Body-->
+            <div class="modal-body mb-1">
+              <div class="md-form form-sm mb-5">
+                <i class="fas fa-envelope prefix"></i>
+                <input type="email" id="modalLRInput10" class="form-control form-control-sm validate">
+                <label data-error="wrong" data-success="right" for="modalLRInput10">Seu email</label>
+              </div>
+
+              <div class="md-form form-sm mb-4">
+                <i class="fas fa-lock prefix"></i>
+                <input type="password" id="modalLRInput11" class="form-control form-control-sm validate">
+                <label data-error="wrong" data-success="right" for="modalLRInput11">Sua senha</label>
+              </div>
+              <div class="text-center mt-2">
+                <button class="btn">Acesse<i class="fas fa-sign-in ml-1"></i></button>
+              </div>
+            </div>
+            <!--Footer-->
+            <div class="modal-footer">
+              <div class="options text-offset text-md-left mt-1">
+                <p>Ainda não cadastrou seu perfil? <a href="#" class="blue-text">Cadastre-se!</a></p>
+                <p>Esqueceu <a href="#" class="blue-text">a senha?</a></p>
+              </div>
+              <button type="button" class="btn" data-dismiss="modal">Fechar</button>
+            </div>
+
+          </div>
+         
+
       
     </header>
     
