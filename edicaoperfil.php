@@ -2,10 +2,9 @@
 <?php require_once("./inc/head.php"); ?>
 
 
-
-<div class="edite">
+ <div class="edite">
     Página de edição do perfil
-</div>
+</div> 
 
 <div class="container" id="containeredicao">
 
