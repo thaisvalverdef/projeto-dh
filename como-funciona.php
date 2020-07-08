@@ -37,7 +37,7 @@
         <p> Lorem ipsum dolor sit amet consectetur, adipisicing elit. Maiores neque odio atque cupiditate magni eligendi nisi facere vero magnam itaque. Nisi officiis tempore laborum neque nihil iusto quasi voluptates deserunt.
         <br /><br />
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia ea eaque delectus numquam reprehenderit reiciendis beatae at quos, laborum maiores cupiditate doloremque, adipisci iusto ipsa velit illum. Mollitia, nesciunt laboriosam!
-         <br /><br /></p>          
+         <br /><br /><a href="cadastro.php" class="btn">Eu quero cadastrar!</a></p>          
       </div>
       <div class="col-lg-6 order-lg-first pb-5">
         <img class="img-fluid rounded mx-auto" src="./assets/img/cadastre-se.png" alt="">

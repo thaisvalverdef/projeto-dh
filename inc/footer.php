@@ -5,7 +5,7 @@
         <h5>Você dá aula de dança on-line?</h5>
       </li>
       <li class="list-inline-item">
-        <a href="#!" class="btn" style="margin-bottom:15px;">Cadastre-se!</a>
+        <a href="cadastro.php" class="btn" style="margin-bottom:15px;">Cadastre-se!</a>
       </li>
     </ul>
   </div>

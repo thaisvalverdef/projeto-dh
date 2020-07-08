@@ -14,7 +14,7 @@
                 <ul class="navbar-nav ml-auto">
                     <li class="nav-item">
                         
-                        <a class="nav-link" href="">Home <span class="sr-only">(current)</span></a>
+                        <a class="nav-link" href="index.php">Home <span class="sr-only">(current)</span></a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="como-funciona.php">Como funciona</a>
@@ -87,10 +87,11 @@
             </div>
             <!--Footer-->
             <div class="modal-footer">
-              <div class="options text-offset text-md-left mt-1">
-                <p>Ainda não cadastrou seu perfil? <a href="#" class="blue-text">Cadastre-se!</a></p>
+              <div class="options ml-auto">
+                <p>Ainda não cadastrou seu perfil? <a href="cadastro.php" class="blue-text">Cadastre-se!</a></p>
                 <p>Esqueceu <a href="#" class="blue-text">a senha?</a></p>
               </div>
+              
               <button type="button" class="btn" data-dismiss="modal">Fechar</button>
             </div>
 
