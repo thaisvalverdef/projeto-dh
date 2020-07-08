@@ -2,7 +2,7 @@
 <?php require_once("./inc/head.php"); ?>
 <?php require_once("./inc/header.php"); ?>
 <main class="container" id="containerlista">
-    <article class="row" style="padding-bottom:95px">
+    <article class="row" style="padding-bottom:300px">
         <section class="col-12 mx-auto my-5 py-5" id="usuariosTb">
             <h3 class="col-12 text-center my-2"><?= $tituloPagina ?></h3>
             <table class="table my-5">
@@ -22,7 +22,7 @@
                         <td></td>
                         <td></td>
                         <td>
-                            <a href="#">
+                            <a href="edicaoperfil.php">
                                 <i class="fas fa-pen"></i>
                             </a>
                         </td>
