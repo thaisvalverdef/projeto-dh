@@ -42,6 +42,14 @@
         background-color: white;
 }
 
-#containerlista {
-    max-width: 1350px;
+.edite {
+    background-color:#f64d6b;
+    color: white;
+    text-align: center;
+    font-size: 22px;
+    font-style: italic;
+}
+
+#containeredicao {
+    padding-top: 50px;
 }

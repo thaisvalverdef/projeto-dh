@@ -1,32 +1,28 @@
-<?php $tituloPagina = "Lista de Usuários"; ?>
+<?php $tituloPagina = "Lista de Categorias"; ?>
 <?php require_once("./inc/head.php"); ?>
 <?php require_once("./inc/header.php"); ?>
 <main class="container" id="containerlista">
     <article class="row" style="padding-bottom:95px">
-        <section class="col-12 mx-auto my-5 py-5" id="usuariosTb">
-            <h3 class="col-12 text-center my-2"><?= $tituloPagina ?></h3>
+        <section class="col-11 mx-auto my-5 py-5" id="usuariosTb">
+            <h3 class="col-11 text-center my-2"><?= $tituloPagina ?></h3>
             <table class="table my-5">
-                <thead class="thead-light" style="text-align:center">
+                <thead class="thead-light">
                     <tr>
-                        <th scope="col">Nome</th>
-                        <th scope="col">Sobrenome</th>
-                        <th scope="col">E-mail</th>
-                        <th scope="col">Editar</th>
-                        <th scope="col">Excluir</th>
+                        <th scope="col">Modalidades</th>
+                        <th scope="col"></th>
+                        <th scope="col"></th>
+                        <th scope="col"></th>
+                        <th scope="col" style="text-align:right";>Excluir</th>
                     </tr>
                 </thead>
                 <tbody>
 
-                    <tr style="text-align:center">
+                    <tr>
                         <th scope="row"></th>
                         <td></td>
                         <td></td>
-                        <td>
-                            <a href="#">
-                                <i class="fas fa-pen"></i>
-                            </a>
-                        </td>
-                        <td>
+                        <td></td>            
+                        <td style="text-align:right";>
                             <a href="#" data-toggle="modal" data-target="#modal">
                                 <i class="fas fa-trash"></i>
                             </a>
@@ -40,8 +36,8 @@
                                                 <span aria-hidden="true">&times;</span>
                                             </button>
                                         </div>
-                                        <div class="modal-body">
-                                            <p style="text-align:left">Usuário:</p>
+                                        <div class="modal-body" style="text-align:left";>
+                                            <p>Modalidade:</p>
                                         </div>
                                         <div class="modal-footer">
                                             <button type="button" class="btn btn-secondary" data-dismiss="modal">Cancelar</button>
