@@ -47,7 +47,7 @@
                             <a class="dropdown-item" href="#">Jazz</a>
                             <a class="dropdown-item" href="#">Samba</a>
                             <a class="dropdown-item" href="#">Sapateado</a>
-                            <a class="dropdown-item" href="#">Vídeo Dance</a>
+                            <a class="dropdown-item" href="#">Sertanejo</a>
                             <a class="dropdown-item" href="#">Outros</a>
                         </div>
                     </li>
@@ -151,7 +151,7 @@
                 </div>
                 <div class="form-group mt-4 mb-0 ml-3 d-flex flex-row justify-content-start">
                     <button type="reset" class="btn btn-secondary">Limpar</button>
-                    <button type="submit" class="btn btn-primary ml-2">Enviar</button>
+                    <button type="submit" class="btn ml-2">Enviar</button>
                 </div>
             </form>
         </main>
