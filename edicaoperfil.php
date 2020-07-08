@@ -2,9 +2,12 @@
 <?php require_once("./inc/head.php"); ?>
 
 
- <div class="edite">
-    Página de edição do perfil
-</div> 
+<header class="bg-danger text-white">
+    <div class="container text-center">
+      <h3>Página da edição do perfil</h3>
+      <p class="lead"> </p>
+    </div>
+  </header>
 
 <div class="container" id="containeredicao">
 
