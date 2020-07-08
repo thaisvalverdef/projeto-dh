@@ -6,7 +6,7 @@
 <div class="jumbotron jumbotron-fluid">
   <div class="container">
     <h1 class="display-4">Divulgue suas aulas online!</h1>
-    <p class="lead">Cadastre o seu perfil no <strong>Dança Em Casa</strong> e conquista mais alunos para as suas aulas on-line.</p>
+    <p class="lead">Cadastre o seu perfil no <strong>Dança Em Casa</strong> e conquiste mais alunos para as suas aulas on-line.</p>
   </div>
 </div>
 
