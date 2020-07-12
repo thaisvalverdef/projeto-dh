@@ -166,7 +166,7 @@
                             <h5 class="mb-1">Você dá aula de dança on-line?</h5>
                         </li>
                         <li class="list-inline-item">
-                            <a href="#!" class="btn btn-primary btn-rounded">Cadastre-se!</a>
+                            <a href="#!" class="btn btn-primary btn-rounded">Cadastre-se!!</a>
                         </li>
                     </ul>
                     <!-- Call to action -->
